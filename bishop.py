@@ -1,1 +1,2 @@
 #bishop piece
+# move diagonally
